@@ -4,7 +4,7 @@
 		<meta charset="UTF-8">
 		<meta property="og:title" content="{{ page.title }}" />
 		<meta property="og:type" content="website" />
-		<meta property="og:url" content="{{ page.url }}" />
+		<meta property="og:url" content="http://kikuchy.github.com{{ page.url }}" />
 		<meta property="og:locale" content="ja_JP" />
 		<meta name="description" content="" />
 		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
@@ -14,7 +14,16 @@
 		<link rel="stylesheet" type="text/css" href="css/kickstart.css" media="all" />                  <!-- KICKSTART -->
 		<link rel="stylesheet" type="text/css" href="style.css" media="all" />                          <!-- CUSTOM STYLES -->
 	</head>
-	<body><a id="top-of-page"></a><div id="wrap" class="clearfix">
+	<body>
+		<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ja_JP/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+		<a id="top-of-page"></a><div id="wrap" class="clearfix">
 			<!-- ===================================== END HEADER ===================================== -->
 
 
@@ -30,6 +39,7 @@
 			</div>
 
 			<!-- ===================================== START FOOTER ===================================== -->
+			<div class="fb-like" data-send="true" data-width="450" data-show-faces="true" data-font="lucida grande"></div>
 		</div>
 
 	</div><!-- END WRAP -->
