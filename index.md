@@ -16,10 +16,15 @@ github
 WindowsPhone
 ------------
 - [BMICalculator](http://www.windowsphone.com/ja-JP/apps/1ffe873b-a7a1-4138-a25b-1fba995bfbf5)
+- [DojinshiCounter](http://www.windowsphone.com/ja-JP/apps/09d8d4cf-be30-4c9e-88ff-dd8f2d92b6f2)
 
 CodePlex
 --------
 - [PixivAPIWrapper.NET](http://pixivapi.codeplex.com/)
+
+gist
+----
+- [Public Gists by kikuchy](https://gist.github.com/kikuchy)
 
 Contact
 -------
