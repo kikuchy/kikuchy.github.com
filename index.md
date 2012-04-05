@@ -27,6 +27,10 @@ gist
 ----
 - [Public Gists by kikuchy](https://gist.github.com/kikuchy)	コードスニペットや技術情報のメモなど
 
+jsdo.it
+--------
+- [kikuchy codes - jsdo.it](http://jsdo.it/kikuchy/codes#sectActivity)	クライアントサイドJavascriptで小物をちょこちょこ（Webkit系ブラウザでの閲覧をお勧めします）
+
 Security & Programming Camp
 ----------------------------
 IPA主催の『セキュリティ＆プログラミングキャンプ 2010』のLinux Kernel組に参加しました。
