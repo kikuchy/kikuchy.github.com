@@ -17,6 +17,7 @@ WindowsPhone
 ------------
 - [BMICalculator](http://www.windowsphone.com/ja-JP/apps/1ffe873b-a7a1-4138-a25b-1fba995bfbf5)	BMIを計算、管理するアプリ
 - [DojinshiCounter](http://www.windowsphone.com/ja-JP/apps/09d8d4cf-be30-4c9e-88ff-dd8f2d92b6f2)	いつのイベントで同人が何冊売れたのかをカウントするアプリ
+- [LLEvalWP](http://www.windowsphone.com/ja-JP/apps/1af27016-2f39-408b-931a-e0974954da85)	小飼弾さんによる[lleval](http://colabv6.dan.co.jp/lleval.html)のAPIをWindowsPhoneから叩くのに便利なクライアント・WPでどこでもプログラミングするためのアプリ
 
 CodePlex
 --------
@@ -30,7 +31,7 @@ Security & Programming Camp
 ----------------------------
 IPA主催の『セキュリティ＆プログラミングキャンプ 2010』のLinux Kernel組に参加しました。
 菊池の成果については、このページが詳しいです。
-http://www.atmarkit.co.jp/flinux/special/camp2010/01b.html
+->[そこはコンピュータ版「精神と時の部屋」](http://www.atmarkit.co.jp/flinux/special/camp2010/01b.html)
 
 Contact
 -------
