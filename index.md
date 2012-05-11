@@ -18,6 +18,8 @@ WindowsPhone
 - [BMICalculator](http://www.windowsphone.com/ja-JP/apps/1ffe873b-a7a1-4138-a25b-1fba995bfbf5)	BMIを計算、管理するアプリ
 - [DojinshiCounter](http://www.windowsphone.com/ja-JP/apps/09d8d4cf-be30-4c9e-88ff-dd8f2d92b6f2)	いつのイベントで同人誌が何冊売れたのかをカウントするアプリ
 - [LLEvalWP](http://www.windowsphone.com/ja-JP/apps/1af27016-2f39-408b-931a-e0974954da85)	小飼弾さんによる[lleval](http://colabv6.dan.co.jp/lleval.html)のAPIをWindowsPhoneから叩くのに便利なクライアント・WPでどこでもプログラミングするためのアプリ
+- [電気通信大学 新着情報](http://www.windowsphone.com/ja-JP/apps/88129065-1060-43bf-8b73-0aa6c3369fc3?fb_ref=wpcwam&fb_source=other_multiline)	電気通信大学の新着情報を、一画面で見渡せるようにしたアプリ
+- [FallingSimulation](http://www.windowsphone.com/ja-JP/apps/21d98085-5202-410b-902e-879a10a3af19)	物を落としたとき、「何mの高さから落とすと何秒かかって地面に落ちるのか」を計算・体感できるアプリ
 
 CodePlex
 --------
