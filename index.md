@@ -21,6 +21,11 @@ WindowsPhone
 - [電気通信大学 新着情報](http://www.windowsphone.com/ja-JP/apps/88129065-1060-43bf-8b73-0aa6c3369fc3?fb_ref=wpcwam&fb_source=other_multiline)	電気通信大学の新着情報を、一画面で見渡せるようにしたアプリ
 - [FallingSimulation](http://www.windowsphone.com/ja-JP/apps/21d98085-5202-410b-902e-879a10a3af19)	物を落としたとき、「何mの高さから落とすと何秒かかって地面に落ちるのか」を計算・体感できるアプリ
 
+Windows Store Application
+----------------------------
+- [にじげん！](http://apps.microsoft.com/webpdp/ja-JP/app/nijigen/da27db88-f704-42e3-af85-598579a6249f)　TinamiやPixivのイラストランキングをごく自然な操作感で楽しめるアプリケーション。
+
+
 CodePlex
 --------
 - [PixivAPIWrapper.NET](http://pixivapi.codeplex.com/)	イラストSNS PixivのAPIをラップしたライブラリ
