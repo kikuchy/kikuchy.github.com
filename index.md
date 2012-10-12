@@ -39,6 +39,10 @@ IPA主催の『セキュリティ＆プログラミングキャンプ 2010』の
 菊池の成果については、このページが詳しいです。
 ->[そこはコンピュータ版「精神と時の部屋」](http://www.atmarkit.co.jp/flinux/special/camp2010/01b.html)
 
+Blog
+-----
+- [Kikuchy's Second Memory](http://kikuchy.hatenablog.com)　技術系のネタをまとめたブログです。
+
 Contact
 -------
 - [facebook(菊池紘)](http://www.facebook.com/kikuchy)
