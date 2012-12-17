@@ -1,9 +1,9 @@
-﻿---
+---
 layout: default
-title: プライバシーポリシーと免責事項｜CuteCatPhotos
+title: プライバシーポリシーと免責事項｜CureCatPhotos
 ---
 
-CuteCatPhotos：プライバシーポリシー
+CureCatPhotos：プライバシーポリシー
 =================
 
 収集する情報とその範囲
@@ -15,7 +15,7 @@ CuteCatPhotos：プライバシーポリシー
 IPアドレスは、このアプリケーションが各ブログの最新情報、ブログの記事、ツイートなどの取得に使用されます。
 
 
-CuteCatPhotos：免責事項
+CureCatPhotos：免責事項
 =========
 このアプリケーションを用いて何らかのトラブルが生じたいかなる場合も、アプリケーション制作者は一切の責任を負いません。
 
