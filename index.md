@@ -24,11 +24,15 @@ WindowsPhone
 Windows Store Application
 ----------------------------
 - [にじげん！](http://apps.microsoft.com/webpdp/ja-JP/app/nijigen/da27db88-f704-42e3-af85-598579a6249f)　TinamiやPixivのイラストランキングをごく自然な操作感で楽しめるアプリケーション。
+- [Shelves Squares](http://apps.microsoft.com/windows/app/shelves-squrares/cf909cdc-993c-4e41-9415-e57dd8275907) タグで蔵書を管理するアプリケーション。
+- [ゆるゆり情報局](http://apps.microsoft.com/windows/app/c30a11b0-818f-4350-8a4c-78654f5e92e2) 機能のほどはタイトルから推して知るべし。
 
 
 CodePlex
 --------
 - [PixivAPIWrapper.NET](http://pixivapi.codeplex.com/)	イラストSNS PixivのAPIをラップしたライブラリ
+- [SimpleImageChasherRT](https://simpleimagecacherrt.codeplex.com/) リモート画像のキャッシュを簡単に行えるWindows Store App用のライブラリ。
+- [XMLCatalogueTemplate](https://xmlcataloguetemplate.codeplex.com) XMLをいじるだけで簡単にカタログ形式のWindows Store Applicationを作成できるVisual Studio用プロジェクトテンプレート。
 
 gist
 ----
