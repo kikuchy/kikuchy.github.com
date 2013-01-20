@@ -3,7 +3,7 @@ layout: default
 title: kikuchy's Portfolio
 ---
 
-![icon](/icon_128.png) kikuchy's Portfolio
+![icon](/icon_64.png) kikuchy's Portfolio
 ===========
 菊池(kikuchy)がこれまでに作った作品を載せています。
 
