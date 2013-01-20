@@ -3,7 +3,7 @@ layout: default
 title: kikuchy's Portfolio
 ---
 
-kikuchy's Portfolio
+![icon](/icon_128.png) kikuchy's Portfolio
 ===========
 菊池(kikuchy)がこれまでに作った作品を載せています。
 
@@ -12,6 +12,7 @@ github
 - [RubyBrainfuckInterpreter](https://github.com/kikuchy/RubyBrainfuckInterpreter)	BrainfuckのRuby実装
 - [RubyCharlotte](http://kikuchy.github.com/RubyCharlotte/)	自作言語『Charlotte』のRuby実装（サンプルを動かしてみることをお勧めします）
 - [Haiku](https://github.com/kikuchy/Haiku)	iPhoneで手軽に俳句を詠むためのソフト（Titanium製）
+- [Trump-RT-and-.Net](https://github.com/kikuchy/Trump-RT-and-.Net)	Windows Store Applicationや、.Net、Windows Phoneでの開発に使用できる、トランプを扱うライブラリ。手札の中にあるカードを定数オーダーで捜索できるのが特徴です。
 
 WindowsPhone
 ------------
@@ -23,7 +24,7 @@ WindowsPhone
 
 Windows Store Application
 ----------------------------
-- [にじげん！](http://apps.microsoft.com/webpdp/ja-JP/app/nijigen/da27db88-f704-42e3-af85-598579a6249f)　TinamiやPixivのイラストランキングをごく自然な操作感で楽しめるアプリケーション。
+- [にじげん！](http://apps.microsoft.com/webpdp/ja-JP/app/nijigen/da27db88-f704-42e3-af85-598579a6249f)　TinamiやPixivのイラストランキングをごく自然な操作感で楽しめるアプリケーション。[こちらのニコ生](http://nico.ms/lv110401544)でも紹介させていただきました。
 - [Shelves Squares](http://apps.microsoft.com/windows/app/shelves-squrares/cf909cdc-993c-4e41-9415-e57dd8275907) タグで蔵書を管理するアプリケーション。
 - [ゆるゆり情報局](http://apps.microsoft.com/windows/app/c30a11b0-818f-4350-8a4c-78654f5e92e2) 機能のほどはタイトルから推して知るべし。
 
