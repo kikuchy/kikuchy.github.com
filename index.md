@@ -31,7 +31,6 @@ Windows Store Application
 
 CodePlex
 --------
-- [PixivAPIWrapper.NET](http://pixivapi.codeplex.com/)	イラストSNS PixivのAPIをラップしたライブラリ
 - [SimpleImageChasherRT](https://simpleimagecacherrt.codeplex.com/) リモート画像のキャッシュを簡単に行えるWindows Store App用のライブラリ。
 - [XMLCatalogueTemplate](https://xmlcataloguetemplate.codeplex.com) XMLをいじるだけで簡単にカタログ形式のWindows Store Applicationを作成できるVisual Studio用プロジェクトテンプレート。
 
