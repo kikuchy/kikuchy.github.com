@@ -24,7 +24,7 @@ WindowsPhone
 
 Windows Store Application
 ----------------------------
-- [にじげん！](http://apps.microsoft.com/webpdp/ja-JP/app/nijigen/da27db88-f704-42e3-af85-598579a6249f)　TinamiやPixivのイラストランキングをごく自然な操作感で楽しめるアプリケーション。[こちらのニコ生](http://nico.ms/lv110401544)でも紹介させていただきました。
+- [にじげん！](http://apps.microsoft.com/webpdp/ja-JP/app/nijigen/da27db88-f704-42e3-af85-598579a6249f)　TinamiやPixivのイラストランキングをごく自然な操作感で楽しめるアプリケーション。[こちらの記事](http://blogs.msdn.com/b/microsoft_japan_academic/archive/2012/09/05/microsoft-student-partners-nijigen-by-msp.aspx)や、[こちらのニコ生](http://nico.ms/lv110401544)でも紹介させていただきました。
 - [Shelves Squares](http://apps.microsoft.com/windows/app/shelves-squrares/cf909cdc-993c-4e41-9415-e57dd8275907) タグで蔵書を管理するアプリケーション。
 - [ゆるゆり情報局](http://apps.microsoft.com/windows/app/c30a11b0-818f-4350-8a4c-78654f5e92e2) 機能のほどはタイトルから推して知るべし。
 
@@ -48,6 +48,10 @@ Security & Programming Camp
 IPA主催の『セキュリティ＆プログラミングキャンプ 2010』のLinux Kernel組に参加しました。
 菊池の成果については、このページが詳しいです。
 ->[そこはコンピュータ版「精神と時の部屋」](http://www.atmarkit.co.jp/flinux/special/camp2010/01b.html)
+
+Microsoft Student Partners
+--------------------------
+[Microsoft Student Partners](http://msdn.microsoft.com/ja-jp/jj937215) フェロー1期生として活動させていただいています。[MSPフェローについてはこちらをご覧ください](http://blogs.msdn.com/b/microsoft_japan_academic/archive/2012/09/14/microsoft-student-partners.aspx)。
 
 Blog
 -----
