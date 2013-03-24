@@ -13,6 +13,7 @@ github
 - [RubyCharlotte](http://kikuchy.github.com/RubyCharlotte/)	自作言語『Charlotte』のRuby実装（サンプルを動かしてみることをお勧めします）
 - [Haiku](https://github.com/kikuchy/Haiku)	iPhoneで手軽に俳句を詠むためのソフト（Titanium製）
 - [Trump-RT-and-.Net](https://github.com/kikuchy/Trump-RT-and-.Net)	Windows Store Applicationや、.Net、Windows Phoneでの開発に使用できる、トランプを扱うライブラリ。手札の中にあるカードを定数オーダーで捜索できるのが特徴です。
+- [pixiv context viewer](http://kikuchy.github.com/PixivContextViewer/)	イラストSNS [pixiv](http://www.pixiv.net)をもっと見やすくするブラウザextension。
 
 WindowsPhone
 ------------
