@@ -20,3 +20,4 @@ title: 魔女文字ドリル
 ** [Puella Magi Wiki](http://wiki.puella-magi.net/Deciphering_the_runes)
 * 効果音
 ** [小森平の使い方](http://taira-komori.jpn.org/index.html)
+** [映写機の音 - ニコニ・コモンズ](http://commons.nicovideo.jp/material/nc63527)
