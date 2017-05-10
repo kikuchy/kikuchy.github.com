@@ -5,7 +5,7 @@ title: kikuchy's Portfolio
 
 ![icon](/icon_64.png) kikuchy's Portfolio
 ===========
-菊池(kikuchy)がこれまでに作った作品を載せています。
+菊池(kikuchy)のエンジニアとしての活動をまとめました。
 
 github
 ------
@@ -51,11 +51,16 @@ IPA主催の『セキュリティ＆プログラミングキャンプ 2010』の
 
 Microsoft Student Partners
 --------------------------
-[Microsoft Student Partners](http://msdn.microsoft.com/ja-jp/jj937215) フェロー1期生として活動させていただいています。[MSPフェローについてはこちらをご覧ください](http://blogs.msdn.com/b/microsoft_japan_academic/archive/2012/09/14/microsoft-student-partners.aspx)。
+[Microsoft Student Partners](http://msdn.microsoft.com/ja-jp/jj937215) フェロー1期生として活動させていただいていました。[MSPフェローについてはこちらをご覧ください](http://blogs.msdn.com/b/microsoft_japan_academic/archive/2012/09/14/microsoft-student-partners.aspx)。
 
 Blog
 -----
 - [Kikuchy's Second Memory](http://kikuchy.hatenablog.com)　技術系のネタをまとめたブログです。
+
+Job
+------
+
+* [職務経歴](/job_resume)　これまでの職歴と、これからやりたいお仕事に対して求めることです。
 
 Contact
 -------

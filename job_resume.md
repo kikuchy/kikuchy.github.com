@@ -5,6 +5,9 @@ title: 職務経歴
 
 # 職務経歴
 
+最終更新 -> (ファイルを変更したコミットを参照](https://github.com/kikuchy/kikuchy.github.com/commits/master/job_resume.md)
+
+
 ## 概略
 
 2014年から職業エンジニアをしております。
