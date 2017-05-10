@@ -5,7 +5,7 @@ title: 職務経歴
 
 # 職務経歴
 
-最終更新 -> (ファイルを変更したコミットを参照](https://github.com/kikuchy/kikuchy.github.com/commits/master/job_resume.md)
+最終更新 -> [ファイルを変更したコミットを参照](https://github.com/kikuchy/kikuchy.github.com/commits/master/job_resume.md)
 
 
 ## 概略
@@ -52,7 +52,7 @@ title: 職務経歴
 
 ## 対外発表
 
-最新のものは [SlideShareに上がっていますのでごらんください](https://www.slideshare.net/HiroshiKikuchi)。
+最新のものは [SlideShareに上がっていますのでご覧になってください](https://www.slideshare.net/HiroshiKikuchi)。
 
 また、技術的な文章は[Qiitaに投稿しておりますのでご覧になってください](http://qiita.com/kikuchy)。
 
